@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [335.27520929249897, 0.0, 316.945563765228, 0.0, 337.7955498229264, 236.70998632949028,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: jasonduck/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2874678959199271, 0.06360362325282679, 0.0004820303380126548, -0.0012180150911192053,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [236.07498168945312, 0.0, 315.5687362048775, 0.0, 0.0, 276.615966796875, 235.02457035575935,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
